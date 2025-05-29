@@ -63,7 +63,7 @@
 
 <p>
   <b>Email:</b> <a href="mailto:alexander.contreraswong@gmail.com">alexander.contreraswong@gmail.com</a><br>
-  <b>LinkedIn:</b> [¡Hablemos!](https://www.linkedin.com/in/tu-linkedin) <br>
+
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil! ⭐️</p>
