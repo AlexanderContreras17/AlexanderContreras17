@@ -3,7 +3,8 @@
   <b>Front-End Developer | UI/UX Enthusiast | Web Components Fan</b>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,lit,js,ts,html,css,sass,tailwind,figma,storybook,vite,git,docker" alt="Stack principal" />
+<img src="https://skillicons.dev/icons?i=github,git,lit,js,html,css,sass,figma,storybook" alt="Stack principal" />
+
 </p>
 
 ---
@@ -15,7 +16,7 @@
 - ⚡ <b>Performance:</b> Me encanta optimizar interfaces y experiencias.
 - 🔌 <b>APIs REST:</b> Integración fluida entre frontend y backend.
 - 🖥️ <b>ASP.NET & C#:</b> Sólido conocimiento para construir servicios robustos.
-- 📚 <b>Aprendizaje continuo:</b> Siempre explorando TypeScript, Playwright y nuevas tendencias.
+- 📚 <b>Aprendizaje continuo:</b> Siempre explorando JavaScript, Css y nuevas tendencias.
 - 🤝 <b>Colaborativo:</b> Fan de CI/CD, code reviews y equipos multidisciplinarios.
 
 ---
