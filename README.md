@@ -116,9 +116,6 @@ tr:hover{background:rgba(255,255,255,.06);}
 </div>
 
 
-¡Gracias por visitar mi perfil!
-
-
 
 <!---
 AlexanderContreras17/AlexanderContreras17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
