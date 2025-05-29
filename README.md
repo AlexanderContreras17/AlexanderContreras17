@@ -1,123 +1,68 @@
-<!-- README.md – Alexander Contreras -->
-
-<!-- ░░░░░  SIMPLE THEME  ░░░░░ -->
-<style>
-:root{
-  --bg:#0f172a;
-  --bg-alt:#1e293b;
-  --accent:#0ea5e9;
-  --text:#e2e8f0;
-  --radius:1.25rem;
-  --shadow:0 10px 30px rgba(0,0,0,.35);
-  font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-}
-
-/* Wrapper */
-.readme-box{
-  background:linear-gradient(145deg,var(--bg),#111827);
-  color:var(--text);
-  padding:2rem 2.5rem;
-  border-radius:var(--radius);
-  box-shadow:var(--shadow);
-}
-
-/* Badges */
-.badge{
-  background:var(--bg-alt);
-  color:var(--accent);
-  padding:.25rem .75rem;
-  border-radius:.75rem;
-  margin:.15rem .25rem;
-  font-weight:600;
-  font-size:.8rem;
-  display:inline-block;
-}
-
-/* Headings */
-h1,h2,h3{
-  color:var(--accent);
-  margin-top:2.2rem;
-  margin-bottom:.75rem;
-  text-align:center;
-}
-h2,h3{ text-align:left; }
-
-/* Table */
-table{
-  width:100%;
-  border-collapse:collapse;
-  margin-top:.75rem;
-}
-th,td{
-  padding:.55rem .8rem;
-  border:1px solid var(--bg-alt);
-  text-align:left;
-}
-tr:nth-child(even){background:rgba(255,255,255,.04);}
-tr:hover{background:rgba(255,255,255,.06);}
-</style>
-
-<div class="readme-box">
-
-<h1>Hola, soy Alexander Contreras 👋</h1>
-
+<h1 align="center">Hola, soy Alexander Contreras 👋</h1>
 <p align="center">
-  Desarrollador <strong>Front-End</strong> orientado a
-  <span class="badge">React</span>
-  <span class="badge">Lit</span>
-  <span class="badge">Web-Components</span>
-  <span class="badge">HTML</span>
-  <span class="badge">CSS</span>
-  <span class="badge">JavaScript</span>,
-  con competencias en <span class="badge">ASP .NET / C#</span> para el lado servidor.<br>
-  Disfruto convertir ideas complejas en experiencias de usuario claras, accesibles y visualmente atractivas.
+  <b>Front-End Developer | UI/UX Enthusiast | Web Components Fan</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,lit,js,ts,html,css,sass,tailwind,figma,storybook,vite,git,docker" alt="Stack principal" />
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- 🎨 **UI / UX** · Pixel-perfect, responsive y accesible.  
-- 🧩 **Web Components & Lit** · Componentes encapsulados estándar W3C.  
-- 🔌 **APIs básicas** · Endpoints RESTful para CRUD y prototipos rápidos.  
-- 🖥️ **ASP.NET & C#** · Servicios y páginas dinámicas que respaldan el Front-End.  
-- 📚 **Aprendizaje continuo** · TypeScript & Playwright en el radar.  
-- 🤝 Fan del **trabajo colaborativo**, CI/CD y los code reviews útiles.
 
-## 🛠️ Stack Principal
-| Front End | Back End | Herramientas |
-|-----------|----------|--------------|
-| HTML5 / CSS3 / SASS | ASP.NET Core | Git & GitHub |
-| JavaScript (ES6+) | C# | Figma |
-| React ⚛︎ / Vite | Entity Framework Core | VS Code / Visual Studio |
-| Lit + Web Components | SQL Server | Docker (básico) |
-| Shoelace / Tailwind CSS | APIs REST (básico) | Storybook / Playwright |
+- 🎨 <b>UI/UX Lover:</b> Diseño pixel perfect, responsive y accesible.
+- 🧩 <b>Web Components & Lit:</b> Componentes modernos, encapsulados y reutilizables.
+- ⚡ <b>Performance:</b> Me encanta optimizar interfaces y experiencias.
+- 🔌 <b>APIs REST:</b> Integración fluida entre frontend y backend.
+- 🖥️ <b>ASP.NET & C#:</b> Sólido conocimiento para construir servicios robustos.
+- 📚 <b>Aprendizaje continuo:</b> Siempre explorando TypeScript, Playwright y nuevas tendencias.
+- 🤝 <b>Colaborativo:</b> Fan de CI/CD, code reviews y equipos multidisciplinarios.
 
-## 📌 Proyectos Destacados
-| Proyecto | Descripción | Tech |
-|----------|-------------|------|
-| **🎟️ CineTickets** | Plataforma para compra de boletos; admins gestionan cartelera, salas y horarios. | ASP.NET Core MVC, EF Core, Bootstrap |
-| **✅ Task Manager** | App de tareas con auth, filtros y tiempo real. | ASP.NET Core API, React, Tailwind CSS |
-| **🛍️ StoreFront UI** | Librería de componentes (Lit) basada en Atomic Design para e-commerce. | Lit, Storybook, Jest + Testing Library |
+---
 
-> 🔗 **Demo y código** en los repos de este perfil.
+## 🛠️ Stack Favorito
 
-## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexcontreras&show_icons=true&theme=default" alt="Estadísticas de Alexander" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lit-324fff?style=for-the-badge&logo=lit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Components-ffb300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## ✉️ Contacto
-**Email:** <alexander.contreraswong@gmail.com>  
+---
 
-> ¡Siempre abierto a nuevas colaboraciones o a conversar sobre desarrollo web!
+## ✨ Proyectos Destacados
 
-<p align="center">Gracias por visitar mi perfil ⭐️</p>
+| Proyecto           | Descripción                                                                                                         | Stack Principal                                      | Demo          |
+|--------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|---------------|
+| **🎟️ CineTickets** | Plataforma de compra de boletos, admins gestionan cartelera, salas y horarios.                                      | React, ASP.NET Core MVC, EF Core, Bootstrap          | [Ir al repo](#) |
+| **✅ Task Manager** | App de tareas con autenticación, filtros y tiempo real.                                                             | React, ASP.NET Core API, Tailwind CSS                | [Ir al repo](#) |
+| **🛍️ StoreFront UI** | Librería de componentes (Lit) basada en Atomic Design para e-commerce.                                              | Lit, Storybook, Jest + Testing Library               | [Ir al repo](#) |
 
-</div>
+> 🔗 Encuentra más proyectos y código en mis repos.
 
+---
 
+## 📊 Estadísticas
 
-<!---
-AlexanderContreras17/AlexanderContreras17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderContreras17&show_icons=true&theme=react" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderContreras17&layout=compact&theme=react" alt="top languages" />
+</p>
+
+---
+
+## ✉️ Contáctame
+
+<p>
+  <b>Email:</b> <a href="mailto:alexander.contreraswong@gmail.com">alexander.contreraswong@gmail.com</a><br>
+  <b>LinkedIn:</b> [¡Hablemos!](https://www.linkedin.com/in/tu-linkedin) <br>
+</p>
+
+<p align="center">¡Gracias por visitar mi perfil! ⭐️</p>
